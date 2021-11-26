@@ -1,5 +1,5 @@
-# Java-with-Junit
-Simple bank app via Java with Junit 
+# Java-with-JUnit
+Simple bank app via Java with JUnit 
 
 ****************************
 * Simple bank app via Java *
